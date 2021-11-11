@@ -1,16 +1,23 @@
-### Hi there 👋
+<div>
 
-<!--
-**imaris93/imaris93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <a href="https://github.com/imaris93">
 
-Here are some ideas to get you started:
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imaris93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaris93&layout=compact&langs_count=7&theme=dark"/>
+
+</div> <br>
+  
+   <div>   
+ <div>   
+
+ <!-- Contador de visitas -->
+
+
+ <h3> Visitantes </h3>  
+
+ <div>
+
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=imaris93&color=green" alt="imaris93" /> <br>
+
+ </div>  
